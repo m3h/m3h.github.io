@@ -4,6 +4,9 @@ author: m3h
 date: 2021-10-20T21:04:04+02:00
 categories:
   - Blog
+tags:
+  - Blog
+  - Hello, World
 ---
 
 Hello, World - for real (this time)
