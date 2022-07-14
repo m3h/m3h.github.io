@@ -6,7 +6,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
 theme = "hugo-classic"
 title = "Classic"
-publishdir = "./docs"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -38,7 +37,6 @@ weight = 2
 [[menu.feed]]
 name = "Subscribe"
 url = "/index.xml"
-publishdir = "./docs"
 
 [params]
 custom_css = ["css/theme-override.css"]
