@@ -41,4 +41,4 @@ url = "/index.xml"
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-footer = "[📧](mailto:reece@volker.page) | [GitHub](https://github.com/m3h) | [LinkedIn](https://www.linkedin.com/in/rlvolker)"
+footer = "[GitHub](https://github.com/m3h) | [LinkedIn](https://www.linkedin.com/in/rlvolker)"
